@@ -1,1 +1,2 @@
-# JNU -> virtual_reality_termproject
+# JNU
+virtual_reality_termproject
